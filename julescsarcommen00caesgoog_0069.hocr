@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./julescsarcommen00caesgoog_0069.png"; bbox 0 0 569 875; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 38 0 512 15">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 38 0 512 15">
+     <span class='ocr_line' id='line_1_1' title="bbox 38 0 512 15; baseline -0.015 1"><span class='ocrx_word' id='word_1_1' title='bbox 38 8 43 9; x_wconf 54' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 54 0 294 15; x_wconf 53' lang='lat' dir='ltr'>U.Z</span> <span class='ocrx_word' id='word_1_3' title='bbox 301 7 512 11; x_wconf 38' lang='lat' dir='ltr'>*wrm—U</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 165 57 487 77">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 165 57 487 77">
+     <span class='ocr_line' id='line_1_2' title="bbox 165 57 487 77; baseline -0.012 -3"><span class='ocrx_word' id='word_1_4' title='bbox 165 63 211 74; x_wconf 71' lang='lat' dir='ltr'>LOEER</span> <span class='ocrx_word' id='word_1_5' title='bbox 223 62 234 77; x_wconf 88' lang='grc' dir='ltr'>Ι,</span> <span class='ocrx_word' id='word_1_6' title='bbox 245 62 279 73; x_wconf 64' lang='grc' dir='ltr'>«Ἂν.</span> <span class='ocrx_word' id='word_1_7' title='bbox 291 61 372 73; x_wconf 68' lang='lat' dir='ltr'>xxm-xxv.</span> <span class='ocrx_word' id='word_1_8' title='bbox 471 57 487 71; x_wconf 65' lang='lat' dir='ltr'>h}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 217 793 351 805">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 217 793 351 805">
+     <span class='ocr_line' id='line_1_3' title="bbox 217 793 351 805; baseline -0.015 0"><span class='ocrx_word' id='word_1_9' title='bbox 217 794 262 805; x_wconf 62' lang='lat' dir='ltr'>unuin„</span> <span class='ocrx_word' id='word_1_10' title='bbox 268 793 281 804; x_wconf 71' lang='lat' dir='ltr'>a·</span> <span class='ocrx_word' id='word_1_11' title='bbox 288 794 351 804; x_wconf 69' lang='lat' dir='ltr'>uum-non.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

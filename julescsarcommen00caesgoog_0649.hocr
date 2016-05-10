@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./julescsarcommen00caesgoog_0649.png"; bbox 0 0 569 875; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 139 43 360 62">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 139 43 360 62">
+     <span class='ocr_line' id='line_1_1' title="bbox 139 43 360 62; baseline 0.005 -3"><span class='ocrx_word' id='word_1_1' title='bbox 139 48 234 62; x_wconf 64' lang='lat' dir='ltr'><strong>REMARQUES</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 245 48 273 60; x_wconf 70' lang='lat' dir='ltr'><strong>suu</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 286 43 360 60; x_wconf 66' lang='lat' dir='ltr'><strong>L’ARMEE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 38 822 161 832">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 38 822 161 832">
+     <span class='ocr_line' id='line_1_2' title="bbox 38 822 161 832; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 38 823 45 832; x_wconf 66' lang='grc' dir='ltr'>ε</span> <span class='ocrx_word' id='word_1_5' title='bbox 57 823 97 832; x_wconf 64' lang='lat' dir='ltr'><strong>mam</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 105 822 161 832; x_wconf 54' lang='lat' dir='ltr'><strong>eunucu.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 383 820 398 833">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 383 820 398 833">
+     <span class='ocr_line' id='line_1_3' title="bbox 383 820 398 833; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 383 820 398 833; x_wconf 74' lang='lat'><strong>⁴0</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 421 47 464 64">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 421 47 464 64">
+     <span class='ocr_line' id='line_1_4' title="bbox 421 47 464 64; baseline 0.023 -3"><span class='ocrx_word' id='word_1_8' title='bbox 421 59 425 64; x_wconf 78' lang='lat'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 435 47 464 62; x_wconf 78' lang='lat'><strong>625</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 477 242 492 638">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 477 242 492 638">
+     <span class='ocr_line' id='line_1_5' title="bbox 477 242 492 638; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 477 550 491 638; x_wconf 63' lang='lat' dir='ltr'><strong>Nummum,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 478 504 491 545; x_wconf 61' lang='lat' dir='ltr'><strong>‹nms</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 481 479 489 499; x_wconf 67' lang='lat' dir='ltr'><strong>une</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 478 396 492 474; x_wconf 67' lang='lat' dir='ltr'>phmgnphie</span> <span class='ocrx_word' id='word_1_14' title='bbox 478 378 489 392; x_wconf 72' lang='grc' dir='ltr'><strong>ιιι.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 478 335 489 371; x_wconf 70' lang='lat' dir='ltr'><strong>uum</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 478 317 489 330; x_wconf 69' lang='grc' dir='ltr'><strong>ιι-</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 478 242 490 312; x_wconf 43' lang='lat' dir='ltr'><strong>summum.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
